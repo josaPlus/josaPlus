@@ -1,9 +1,9 @@
 <h1 align="center">Hi,soy Josafat Aguirre</h1>
-<h3 align="center">Estudiante de la Universidad de La Salle Bajío, León, Gto</h3>
+<h3 align="center">Soy un estudiante de la Universidad de La Salle Bajío, León, Gto</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/josafat aguirre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josafat aguirre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/josafat-aguirre-37665916b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josafat-aguirre-37665916b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
