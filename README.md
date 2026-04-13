@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Josafat Aguirre 👋</h1>
+<h1 align="center">Hola, soy Josafat Aguirre</h1>
 
 <p align="center">
   <em>Estudiante de Desarrollo de Software en la <b>Universidad de La Salle Bajío</b>, León, Gto.</em>
